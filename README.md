@@ -1,6 +1,6 @@
 # Contrastive and counterfactuals explanations for test case prioritization: Ideas and challenges
 
-This repository contains additional material for the paper "Contrastive and counterfactuals explanations for test case prioritization: Ideas and challenges", submitted to [AI4SE track](https://sistedes2023.uclm.es/MJISBD_AI4SE.php) of JISBD [(SISTEDES 2023)](https://sistedes2023.uclm.es/).
+This repository contains additional material for the paper "Contrastive and counterfactuals explanations for test case prioritization: Ideas and challenges", accepted for presentation in the [AI4SE track](https://sistedes2023.uclm.es/MJISBD_AI4SE.php) of JISBD [(SISTEDES 2023)](https://sistedes2023.uclm.es/).
 
 ## Experiment description
 
